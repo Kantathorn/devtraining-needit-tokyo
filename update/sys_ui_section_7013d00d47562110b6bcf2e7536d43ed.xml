@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>cddd9c8547962110b6bcf2e7536d43d0</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>aa8f200947d62110b6bcf2e7536d43ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,97 +18,111 @@
             <element>u_assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>41dd9c8547962110b6bcf2e7536d43d1</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>628f200947d62110b6bcf2e7536d43ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>activity.xml</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>c1dd9c8547962110b6bcf2e7536d43d1</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>e28f200947d62110b6bcf2e7536d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>ae8f200947d62110b6bcf2e7536d43b7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_state</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>45dd9c8547962110b6bcf2e7536d43d1</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>228f200947d62110b6bcf2e7536d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_when_due_date</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>c5dd9c8547962110b6bcf2e7536d43d1</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>a28f200947d62110b6bcf2e7536d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>49dd9c8547962110b6bcf2e7536d43d1</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>268f200947d62110b6bcf2e7536d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_s_description</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>c9dd9c8547962110b6bcf2e7536d43d1</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>a68f200947d62110b6bcf2e7536d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_description</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:10:54</sys_created_on>
-            <sys_id>4ddd9c8547962110b6bcf2e7536d43d1</sys_id>
+            <sys_created_on>2023-04-17 14:28:16</sys_created_on>
+            <sys_id>2a8f200947d62110b6bcf2e7536d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_tasks" sys_domain="global" view="Default view">7013d00d47562110b6bcf2e7536d43ed</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:10:54</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:28:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
