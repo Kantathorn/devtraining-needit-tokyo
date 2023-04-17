@@ -20,6 +20,46 @@
             <element>u_state</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Opened</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-17 14:52:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6af4744d47d62110b6bcf2e7536d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-17 14:52:02</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-17 13:08:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c64d548547962110b6bcf2e7536d4369</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-17 14:51:54</sys_updated_on>
+            <value>closed complete</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Open</label>
             <language>en</language>
             <name>x_58872_needit_needit_tasks</name>
@@ -30,29 +70,29 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ce4d548547962110b6bcf2e7536d4366</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:08:30</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:52:02</sys_updated_on>
             <value>open</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_state</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Work in progress</label>
             <language>en</language>
             <name>x_58872_needit_needit_tasks</name>
-            <sequence>1</sequence>
+            <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-04-17 13:08:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4a4d548547962110b6bcf2e7536d4368</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:08:30</sys_updated_on>
+            <sys_updated_on>2023-04-17 14:51:31</sys_updated_on>
             <value>work in progress</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -60,20 +100,60 @@
             <element>u_state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Closed Complete</label>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_tasks</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-17 14:51:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fd4f04d47d62110b6bcf2e7536d436b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-17 14:51:31</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Completed</label>
             <language>en</language>
             <name>x_58872_needit_needit_tasks</name>
             <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-17 13:08:30</sys_created_on>
+            <sys_created_on>2023-04-17 14:51:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c64d548547962110b6bcf2e7536d4369</sys_id>
+            <sys_id>a4f4344d47d62110b6bcf2e7536d43da</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-17 13:08:30</sys_updated_on>
-            <value>closed complete</value>
+            <sys_updated_on>2023-04-17 14:51:54</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_tasks</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-17 14:51:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7d4f04d47d62110b6bcf2e7536d436d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-17 14:51:31</sys_updated_on>
+            <value>4</value>
         </sys_choice>
     </sys_choice>
 </record_update>
