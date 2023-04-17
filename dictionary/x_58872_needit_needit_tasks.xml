@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4812d08947562110b6bcf2e7536d43bf" label="Needit Tasks" max_length="40" name="x_58872_needit_needit_tasks" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" label="Assigned to" mandatory="true" max_length="32" name="u_assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="open" label="State" mandatory="true" max_length="40" name="u_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Work in progress" sequence="1" value="work in progress"/>
+                <element inactive_on_update="false" label="Closed Complete" sequence="2" value="closed complete"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="160" name="u_s_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="When due date" mandatory="true" max_length="40" name="u_when_due_date" type="glide_date_time"/>
+        <index name="index">
+            <element name="u_assigned_to"/>
+        </index>
+    </element>
+</database>
