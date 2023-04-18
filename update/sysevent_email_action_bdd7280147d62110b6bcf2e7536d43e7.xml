@@ -50,7 +50,7 @@
         <push_message_only>false</push_message_only>
         <recipient_fields>u_assigned_to</recipient_fields>
         <recipient_groups/>
-        <recipient_users>rxcwop+7btiftw@guerrillamail.com</recipient_users>
+        <recipient_users>nnne@guerrillamail.com</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
@@ -63,7 +63,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bdd7280147d62110b6bcf2e7536d43e7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Overdue NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -71,7 +71,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sysevent_email_action_bdd7280147d62110b6bcf2e7536d43e7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-17 14:18:40</sys_updated_on>
+        <sys_updated_on>2023-04-18 04:04:28</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
